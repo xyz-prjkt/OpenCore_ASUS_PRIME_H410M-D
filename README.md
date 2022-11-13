@@ -1,4 +1,4 @@
-# OpenCore_ASUS-PRIME-H410M-D
+# OpenCore for Asus Prime H410M-E
 <p align="left">
     <a href="https://www.apple.com/macos/monterey/">
         <img src="https://img.shields.io/badge/Monterey-12.1-brown"></a>
